@@ -1,0 +1,38 @@
+ASSIGNMENT 1: LOGIN TO A GMAIL ACCOUNT
+
+Algorithm:
+1. Start.
+2. Open a web browser.
+3. Visit the Gmail website (https://mail.google.com).
+4. Click "Sign in".
+5. Enter the Gmail email address.
+6. Click "Next".
+7. Enter the password.
+8. Click "Next".
+9. Check whether the login details are accepted.
+10. If the details are correct, open the Gmail inbox.
+11. If the details are incorrect, display the error and ask the user to try again.
+12. Stop.
+
+Flowchart outline:
+START
+  |
+Open browser
+  |
+Visit Gmail website
+  |
+Click Sign in
+  |
+Enter email address
+  |
+Enter password
+  |
+Are login details correct?
+  | YES                 | NO
+Open Gmail inbox     Show error
+  |                    |
+ STOP             Try again
+                       |
+                 Enter details
+
+Note: This is a learning algorithm for the login process. It does not implement Google's actual authentication system.
